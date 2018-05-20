@@ -1,0 +1,19 @@
+{
+  "name": "nodedownload",
+  "version": "1.0.0",
+  "description": "Simple Node App to test download codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Oliver-Paull",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "joi": "^13.3.0",
+    "lodash": "^4.17.10",
+    "mongoose": "^5.1.1",
+    "vue": "^2.5.16"
+  }
+}
